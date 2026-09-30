@@ -1,0 +1,12 @@
+{
+  "name": "tcm-cashflow",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-30",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "tcm-cashflow",
+      "database_id": "ccce97f5-a7f5-497a-985d-f15e19451850"
+    }
+  ]
+}
